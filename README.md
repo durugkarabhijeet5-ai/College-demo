@@ -1,3 +1,3 @@
 # College-demo
-The is my fist Git Repository.
+This is my fist Git Repository.
 author - Abhijeet D 
